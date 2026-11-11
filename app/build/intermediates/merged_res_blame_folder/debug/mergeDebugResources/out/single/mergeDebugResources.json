@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/menu_drawer_menu.xml.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/layout_activity_base.xml.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/layout/activity_base.xml"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/drawable_ic_paw_large.png.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/drawable/ic_paw_large.png"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/layout_activity_dad_joke.xml.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/layout/activity_dad_joke.xml"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/drawable_ic_exit.png.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/drawable/ic_exit.png"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/drawable_ic_home.png.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/drawable/ic_home.png"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/drawable_ic_heart.png.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/drawable/ic_heart.png"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/menu_toolbar_menu.xml.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/drawable_ic_paw.png.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/drawable/ic_paw.png"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cst2335lab8.app-debug-31:/drawable_ic_smile.png.flat",
+        "source": "com.example.cst2335lab8.app-main-33:/drawable/ic_smile.png"
+    }
+]
